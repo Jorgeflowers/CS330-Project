@@ -1,1 +1,8 @@
 # CS330-Project
+
+Throughout this project, I gained a much better understanding of how to design and develop software, especially in the context of 3D graphics using OpenGL. A new design skill I learned was how to apply textures and lighting properly to 3D objects, which really helped make the final scene look more realistic. I also learned the importance of planning transformations (scale, rotation, and position) ahead of time, rather than trying to adjust everything last minute. If I apply these tactics in the future, I can definitely save myself a lot of frustration during bigger projects.
+
+When it came to development, I found that breaking down the project into smaller steps made a huge difference. I started with simple shapes, then added texture, then lighting, and then movement one milestone at a time. Iteration played a big role too. Every time I added a new feature, I had to go back, troubleshoot, and refine previous work. My approach to coding evolved a lot during this process because I got used to testing small parts before moving forward, which helped me catch mistakes early instead of fixing everything at the end.
+
+Learning about computational graphics and visualization opened up a whole new side of computer science that I hadn't really explored before. These skills will definitely be useful later on, whether for future classes, jobs, or personal projects. I can see how important 3D modeling and visual simulations are, not just for gaming but for fields like engineering, healthcare, and architecture. Being able to visualize complex systems or data in 3D is a huge advantage, and I’m excited to keep building on these skills as I continue my professional journey.
+
